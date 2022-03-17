@@ -4,7 +4,7 @@
       <File FileName="Assets/Scenes/ControlCharacter.cs" Line="19" Column="44" />
       <File FileName="Assets/Scenes/Bala.cs" />
       <File FileName="Assets/Scenes/ActivaTrampa.cs" Line="21" Column="9" />
-      <File FileName="Assets/Scenes/ObstaculoAereo.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scenes/ObstaculoAereo.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
