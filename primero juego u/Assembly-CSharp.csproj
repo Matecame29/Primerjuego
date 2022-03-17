@@ -53,8 +53,10 @@
     <UnityVersion>2020.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scenes/ControlCharacter.cs" />
     <Compile Include="Assets/Scenes/Bala.cs" />
+    <Compile Include="Assets/Scenes/ControlCharacter.cs" />
+    <Compile Include="Assets/Scenes/ObstaculoAereo.cs" />
+    <Compile Include="Assets/Scenes/ActivaTrampa.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

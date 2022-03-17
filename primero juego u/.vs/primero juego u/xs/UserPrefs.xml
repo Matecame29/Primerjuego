@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{A41D1E3F-7B99-B14E-93A7-FE519B0A004D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/ControlCharacter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/ObstaculoAereo.cs">
     <Files>
       <File FileName="Assets/Scenes/ControlCharacter.cs" Line="19" Column="44" />
-      <File FileName="Assets/Scenes/Bala.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scenes/Bala.cs" />
+      <File FileName="Assets/Scenes/ActivaTrampa.cs" Line="21" Column="9" />
+      <File FileName="Assets/Scenes/ObstaculoAereo.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,22 +12,17 @@
           <Node name="primero juego u" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
-                <Node name="ControlCharacter.cs" selected="True" />
+                <Node name="ObstaculoAereo.cs" selected="True" />
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cee05117-4cc9-4b9b-a3ac-491cbb55561c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c2df2138-be34-460c-b936-5fad4175316e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
